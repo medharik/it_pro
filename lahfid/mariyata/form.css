@@ -1,0 +1,17 @@
+body{
+    height:650px;
+    background-image: url(images/arr4.jpg);
+    background-size:cover;
+  background-position: center;
+  position: relative;
+}
+.container {
+    width: 100%;
+    padding: 30px 40px;
+    top: 80px;
+    box-sizing: border-box;
+    position: absolute;
+    box-shadow: 0  0 black;
+
+    
+} 
