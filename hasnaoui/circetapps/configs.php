@@ -313,10 +313,6 @@ $fonction=utf8_decode($_SESSION['user']['fonction']) ;
 $adresse=$_SESSION['user']['adresse'];
 $codeCnss=$_SESSION['user']['codeCnss'];
 $cin=$_SESSION['user']['cin'];
-$ajouteLe=$_SESSION['bulletin']['ajouteLe'];
-$idbulletin=$_SESSION['bulletin']['id'];
-$chemin=$_SESSION['bulletin']['chemin'];
-
-
-
-?>
+$ajouteLe=$_SESSION['user']['ajouteLe'];
+$iduser=$_SESSION['user']['id'];
+$chemin=$_SESSION['user']['chemin'];
